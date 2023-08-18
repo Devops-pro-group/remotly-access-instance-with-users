@@ -1,2 +1,1 @@
-# remotly-access-instance-with-users
-How  multiple users can access a uniqe server  remotly , and share content
+## Lab : How multiple users can access a unique instance remotly and share content.
