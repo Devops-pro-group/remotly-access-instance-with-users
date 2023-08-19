@@ -1,7 +1,7 @@
 
 ## # Presentator  :Ibrehima Keita 
 # Time : 08/18/2023 11p30 Eastern time.
-## Lab : How multiple users can access a unique instance remotly and share content.
+## Lab : How multiple users can access instance remotly and share content.
 
 ![users](download.jpg)
 ### The goal for this Lab is to prepare a working area for Devops Teams .
@@ -11,7 +11,7 @@
 # II - Create users for our new teams.
        - Use for loop, or some other methods to create multiple users at once.
 # III - Create a strong password for users .
-# IV  - Create groups : Devops and Admin . Assign Devops engineer to Devops group aand Ssytem admin to Admin group 
+# IV  - Create groups : Devops and Admin . Assign Devops engineer to Devops group aand Sytem admin to Admin group 
 # V - Create the vorking directory for Devops teams so they can store and share common files.
 # VI - Give read/write permission to the directory so all teams members can edit and view.
 # VII - Configure instance  so teams menbers can remotly ssh it.
