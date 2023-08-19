@@ -1,5 +1,5 @@
 
-## # Presentator  : Author Ibrehima Keita 
+## # Presentator  :Ibrehima Keita 
 # Time : 08/18/2023 11p30 Eastern time.
 ## Lab : How multiple users can access a unique instance remotly and share content.
 
