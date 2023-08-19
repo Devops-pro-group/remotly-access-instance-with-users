@@ -9,5 +9,5 @@
 # IV  - Create groups : Devops and Admin . Assign Devops engineer to Devops group aand Ssytem admin to Admin group 
 # V - Create the vorking directory for Devops teams so they can store and share common files.
 # VI - Give read/write permission to the directory so all teams members can edit and view.
-# VII - Configure the configure the instance so teams menbers can remotly ssh it.
+# VII - Configure instance  so teams menbers can remotly ssh it.
 # VIII -System admin will review if all members get acces to the instance.
